@@ -1,0 +1,14 @@
+{
+  "emimysticalx.hint.infusion_altar": "Auf den Infusionsaltar legen (Mitte)",
+  "emimysticalx.hint.infusion_pedestal": "Auf einen Infusionssockel legen (Reihenfolge egal)",
+  "emimysticalx.hint.awakening_altar": "Auf den Erweckungsaltar legen (Mitte)",
+  "emimysticalx.hint.awakening_pedestal": "Auf einen Erweckungssockel legen",
+  "emimysticalx.hint.essence_vessel": "In ein Essenzgefäß füllen",
+  "emimysticalx.hint.enchanter_item": "Oder jedes Item, das diese Verzauberung annehmen kann",
+  "emimysticalx.hint.souls": "Fügt %s %s-Seelen hinzu",
+  "emimysticalx.hint.spawn_chance": "%s: %s%%",
+  "emimysticalx.hint.crux_seed": "Diesen Samen pflanzen ...",
+  "emimysticalx.hint.crux_farmland": "... auf Ackerboden ...",
+  "emimysticalx.hint.crux_block": "... mit diesem Crux direkt unter dem Ackerboden",
+  "emimysticalx.caption.pedestals": "%s Sockel"
+}

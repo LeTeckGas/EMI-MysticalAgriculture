@@ -1,0 +1,14 @@
+{
+  "emimysticalx.hint.infusion_altar": "Place on the Infusion Altar (center)",
+  "emimysticalx.hint.infusion_pedestal": "Place on an Infusion Pedestal (order doesn't matter)",
+  "emimysticalx.hint.awakening_altar": "Place on the Awakening Altar (center)",
+  "emimysticalx.hint.awakening_pedestal": "Place on an Awakening Pedestal",
+  "emimysticalx.hint.essence_vessel": "Put into an Essence Vessel",
+  "emimysticalx.hint.enchanter_item": "Or any item that can take this enchantment",
+  "emimysticalx.hint.souls": "Adds %s %s souls",
+  "emimysticalx.hint.spawn_chance": "%s: %s%%",
+  "emimysticalx.hint.crux_seed": "Plant this seed...",
+  "emimysticalx.hint.crux_farmland": "...on farmland...",
+  "emimysticalx.hint.crux_block": "...with this crux directly below the farmland",
+  "emimysticalx.caption.pedestals": "%s Pedestals"
+}
